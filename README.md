@@ -17,8 +17,8 @@ Apply Feature selection techniques to all the features of the data set
 Save the data to the file
 ## Program:
 ```
-Developed By : LOKESH RAHUL V V
-Reg No : 212222100024
+Developed By :Vasanthamukilan M
+Reg No : 212222230167
 ```
 
 DATA PREPROCESSING BEFORE FEATURE SELECTION:
